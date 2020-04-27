@@ -11,6 +11,7 @@ donnees_criminalite_2020 = pandas.read_csv("donnees_criminalite_csv_2020.csv", d
 # Avec le groupby ici on compte le nombre d'actes criminels en les groupant par mois.
 compilation_crimes_mensuel_2019 = donnees_criminalite_2019.groupby(donnees_criminalite_2019["DATE"].dt.month).count()["CATEGORIE"]
 compilation_crimes_mensuel_2020 = donnees_criminalite_2020.groupby(donnees_criminalite_2020["DATE"].dt.month).count()["CATEGORIE"]
+print(compilation_crimes_mensuel_2020)
 
 # On veut afficher un diagramme de type "histogramme" afin de visualiser le nombre total d'actes crimimels repertories par mois sur le territoire de Montreal.
 # Pour l'annee 2019 (Janvier a Decembre)
