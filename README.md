@@ -22,7 +22,7 @@ Assurez-vous d'avoir l'accès au projet, car il est privé (théoriquement vous 
 
 **ATTENTION !! Si la commande ne fonctionne pas, assurez-vous qu'il y a bien un project interpreter de sélectionné (et que c'est le bon (conda 3.7)**
 
-*Si ça ne fonctionne toujours pas, fermez le projet complètement (Pycharm) et ouvrez le à nouveau. Tout devrait fonctionner.*
+***Si ça ne fonctionne toujours pas, fermez le projet complètement (Pycharm) et ouvrez le à nouveau. Tout devrait fonctionner.***
 
 12. Une page web va ouvrir, dans cette page, sélectionnez le fichier intitulé "TP4_GTA431-H20.ipynb"
 11. Vous etes arrivé au projet.
