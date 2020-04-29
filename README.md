@@ -4,6 +4,7 @@ Dans un premier temps, assurez-vous d'avoir l'interpréteur conda 3.7 avec les p
   - pandas
   - matplotlib
   - jupyter
+  - scipy
 
 1. Pour ouvrir le fichier, vous devez copier l'adresse suivante https://github.com/marcantoinedumas/TP4_GTA431_Conda_Env.git
 Vous retrouverez aussi le même lien dans l'onglet "Clone or download" du projet.
