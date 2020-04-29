@@ -8,7 +8,6 @@ Dans un premier temps, assurez-vous d'avoir l'interpréteur conda 3.7 avec les p
 
 1. Pour ouvrir le fichier, vous devez copier l'adresse suivante https://github.com/marcantoinedumas/TP4_GTA431_Conda_Env.git
 Vous retrouverez aussi le même lien dans l'onglet "Clone or download" du projet.
-Assurez-vous d'avoir l'accès au projet, car il est privé (théoriquement vous avez accès si vous ouvrez le readme.)
 
 2. Aller dans Pycharm et appuyez sur l'onglet VCS.
 3. Sélectionnez "Get from Version Control..."
@@ -20,5 +19,10 @@ Assurez-vous d'avoir l'accès au projet, car il est privé (théoriquement vous 
 9. Pour afficher le code dans Jupyter notebook, assurez vous premièrement d'avoir installé le package "jupyter" dans le project interpreter conda 3.7
 10. Ouvrir le terminal (dans Pycharm) qui se trouve au bas à gauche de l'écran.
 11. Lancer la commande suivante : jupyter notebook
+
+**ATTENTION !! Si la commande ne fonctionne pas, assurez-vous qu'il y a bien un project interpreter de sélectionné (et que c'est le bon (conda 3.7)**
+
+***Si ça ne fonctionne toujours pas, fermez le projet complètement (Pycharm) et ouvrez le à nouveau. Tout devrait fonctionner.***
+
 12. Une page web va ouvrir, dans cette page, sélectionnez le fichier intitulé "TP4_GTA431-H20.ipynb"
 11. Vous etes arrivé au projet.
